@@ -5,10 +5,10 @@
     "start": "vercel"
   },
   "dependencies": {
-    "express": "^4.17.1" // If you need to use Express for routing (optional)
+    "express": "^4.17.1"
   },
   "engines": {
     "node": "14.x"
   },
-  "main": "index.js" // Entry point for your serverless function
+  "main": "index.js" 
 }
