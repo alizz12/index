@@ -1,0 +1,14 @@
+{
+  "name": "my-function",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel"
+  },
+  "dependencies": {
+    "express": "^4.17.1" // If you need to use Express for routing (optional)
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "main": "index.js" // Entry point for your serverless function
+}
